@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Leo Namahoro
 
-### 💻 Full-Stack Developer | 📱 Mobile Engineer | 🤖 ML Enthusiast | 🌐 Web3 Explorer | 🛠️ DevOps Friendly
+### 💻 Full-Stack Developer | 📱 Mobile Engineer | **🤖 ML/Cyber security Enthusiast** | 🌐 Web3 Explorer | 🛠️ DevOps Friendly
 
 Welcome to my GitHub! I’m a passionate and versatile software developer focused on building impactful digital solutions across web, mobile, and emerging technologies.
 
